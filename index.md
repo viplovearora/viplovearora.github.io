@@ -8,6 +8,6 @@ layout: home
 ## Contact Information  
 Data Science  
 SISSA 
-Email: varora (at) sissa (dot) it  
+Email: varora@sissa.it  
 Office: SISSA Main Building, 656  
 Most updated [CV]({{ site.url }}/assets/Viplove_CV.pdf)
