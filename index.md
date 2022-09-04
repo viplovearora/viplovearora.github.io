@@ -7,7 +7,7 @@ layout: home
 <img style="float: right;" src="Viplove.jpg" width="200" /> 
 ## Contact Information  
 Data Science  
-SISSA 
+SISSA  
 Email: varora@sissa.it  
 Office: SISSA Main Building, 656  
-Most updated [CV]({{ site.url }}/assets/Viplove_CV.pdf)
+<!-- Most updated [CV]({{ site.url }}/assets/Viplove_CV.pdf) -->
