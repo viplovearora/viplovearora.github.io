@@ -10,9 +10,9 @@ Check out my [Google Scholar page](https://scholar.google.com/citations?user=GqG
 - **V. Arora**, E. Amico, J. Goni, M. Ventresca, [Investigating cognitive ability using action-based models of structural brain networks](https://doi.org/10.1093/comnet/cnac037), Journal of Complex Networks (2022)
 - **V. Arora**, G. Sanguinetti, [Challenges for machine learning in RNA-protein interaction prediction](https://www.degruyter.com/document/doi/10.1515/sagmb-2021-0087/html), Statistical Applications in Genetics and Molecular Biology (2021)
 - **V. Arora**, D. Guo, K. D. Dunbar, M. Ventresca, [Quantifying the Variability in Network Populations and its role in Generative Models](https://doi.org/10.1017/nws.2019.63), Network Science (2020)
-- S. R. Hunter, E. A. Applegate, **V. Arora**, B. Chong, K. Cooper, O. Rincon-Guevara, C. Vivas-Valencia, [An Introduction to Multi-Objective Simulation Optimization](https://doi.org/10.1145/3299872), ACM Transactions on Modeling and Computer Simulation, (2019)
-- **V. Arora**, M. Ventresca, [Modeling topologically resilient supply chain networks](https://doi.org/10.1007/s41109-018-0070-7), Applied Network Science, (2018)
-- **V. Arora**, M. Ventresca, [Action-based Modeling of Complex Networks](https://doi.org/10.1038/s41598-017-05444-4), Scientific Reports, (2017)
+- S. R. Hunter, E. A. Applegate, **V. Arora**, B. Chong, K. Cooper, O. Rincon-Guevara, C. Vivas-Valencia, [An Introduction to Multi-Objective Simulation Optimization](https://doi.org/10.1145/3299872), ACM Transactions on Modeling and Computer Simulation (2019)
+- **V. Arora**, M. Ventresca, [Modeling topologically resilient supply chain networks](https://doi.org/10.1007/s41109-018-0070-7), Applied Network Science (2018)
+- **V. Arora**, M. Ventresca, [Action-based Modeling of Complex Networks](https://doi.org/10.1038/s41598-017-05444-4), Scientific Reports (2017)
 
 ## Conference Papers
 - **V. Arora**, M. Ventresca, [Identifying the source of an epidemic using particle swarm optimization](https://doi.org/10.1145/3512290.3528711) GECCO, Boston, USA, 2022
