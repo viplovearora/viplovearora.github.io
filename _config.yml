@@ -25,6 +25,7 @@ twitter_username: ViploveArora2
 # Build settings
 markdown: kramdown
 # theme: minima
+title: Viplove Arora
 plugins:
   - jekyll-feed
 
