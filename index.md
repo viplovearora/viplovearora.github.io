@@ -10,8 +10,6 @@ I am Viplove Arora, postdoctoral researcher working on machine learning in Bioin
 I am interested in developing conceptual, mathematical, and computational tools for modeling complex systems. My research interests include network science, machine learning, complex systems, algorithm design, simulation, multi-objective optimization, and mechanism design.
 
 ## Contact Information  
-<!-- Data Science  
-SISSA   -->
 Email: varora@sissa.it  
 Office: SISSA Main Building, 656  
 <!-- Most updated [CV]({{ site.url }}/assets/Viplove_CV.pdf) -->
