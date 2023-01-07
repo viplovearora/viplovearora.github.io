@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Check out my [Google Scholar page](https://scholar.google.com/citations?user=GqGF8SkAAAAJ&hl=en)
+Check out my [Google Scholar page](https://scholar.google.com/citations?user=GqGF8SkAAAAJ&hl=en) for the most up to date information.
 
 ## Journal
 - **V. Arora**, G. Sanguinetti, [De novo prediction of RNA-protein interactions with Graph Neural Networks](https://rnajournal.cshlp.org/content/early/2022/08/25/rna.079365.122.abstract), RNA (2022)
