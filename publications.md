@@ -6,6 +6,7 @@ permalink: /publications/
 Check out my [Google Scholar page](https://scholar.google.com/citations?user=GqGF8SkAAAAJ&hl=en) for the most up to date information.
 
 ## Journal
+- A. Ray, **V. Arora**, K. Maass, M. Ventresca, [Optimal resource allocation to minimize errors when detecting human trafficking](https://www.tandfonline.com/doi/abs/10.1080/24725854.2023.2177364), IISE Transactions (2023)
 - **V. Arora**, G. Sanguinetti, [De novo prediction of RNA-protein interactions with Graph Neural Networks](https://rnajournal.cshlp.org/content/early/2022/08/25/rna.079365.122.abstract), RNA (2022)
 - **V. Arora**, E. Amico, J. Goni, M. Ventresca, [Investigating cognitive ability using action-based models of structural brain networks](https://doi.org/10.1093/comnet/cnac037), Journal of Complex Networks (2022)
 - **V. Arora**, G. Sanguinetti, [Challenges for machine learning in RNA-protein interaction prediction](https://www.degruyter.com/document/doi/10.1515/sagmb-2021-0087/html), Statistical Applications in Genetics and Molecular Biology (2021)
@@ -15,12 +16,13 @@ Check out my [Google Scholar page](https://scholar.google.com/citations?user=GqG
 - **V. Arora**, M. Ventresca, [Action-based Modeling of Complex Networks](https://doi.org/10.1038/s41598-017-05444-4), Scientific Reports (2017)
 
 ## Conference Papers
-- J. MaGee, **V. Arora**, M. Ventresca, [Identifying the source of an epidemic using particle swarm optimization](https://doi.org/10.1145/3512290.3528711) GECCO, Boston, USA, 2022
-- **V. Arora**, M. Ventresca, [Evaluating the Natural Variability in Generative Models for Complex Networks](https://doi.org/10.1007/978-3-030-05411-3_59), International Workshop on Complex Networks and their Applications, Cambridge, UK, 2018
-- **V. Arora**, M. Ventresca, [Action-Based Model for Topologically Resilient Supply Networks](https://doi.org/10.1007/978-3-319-72150-7_53), International Workshop on Complex Networks and their Applications, Lyon, France, 2017
-- D. Guo, **V. Arora**, E. Amico, J. Goni, M. Ventresca, [Dynamic Generative Model of the Human Brain in Resting-State](https://doi.org/10.1007/978-3-319-72150-7_103), International Workshop on Complex Networks and their Applications, Lyon, France, 2017
-- **V. Arora**, M. Ventresca, [The inverse problem of discovering complex network generators](https://icipe17.uwaterloo.ca/papers/53TVentresca.pdf), ICIPE, Waterloo, Canada, 2017
-- **V. Arora**, M. Ventresca, [A Multi-objective Optimization Approach for Generating Complex Networks](https://doi.org/10.1145/2908961.2908966), GECCO, Denver, USA, 2016
+- **V. Arora**, D. Irto, S. Goldt, G. Sanguinetti, [Quantifying lottery tickets under label noise: accuracy, calibration, and complexity](https://proceedings.mlr.press/v216/arora23a.html), UAI, 2023}
+- J. MaGee, **V. Arora**, M. Ventresca, [Identifying the source of an epidemic using particle swarm optimization](https://doi.org/10.1145/3512290.3528711) GECCO, 2022
+- **V. Arora**, M. Ventresca, [Evaluating the Natural Variability in Generative Models for Complex Networks](https://doi.org/10.1007/978-3-030-05411-3_59), International Workshop on Complex Networks and their Applications, 2018
+- **V. Arora**, M. Ventresca, [Action-Based Model for Topologically Resilient Supply Networks](https://doi.org/10.1007/978-3-319-72150-7_53), International Workshop on Complex Networks and their Applications, 2017
+- D. Guo, **V. Arora**, E. Amico, J. Goni, M. Ventresca, [Dynamic Generative Model of the Human Brain in Resting-State](https://doi.org/10.1007/978-3-319-72150-7_103), International Workshop on Complex Networks and their Applications, 2017
+- **V. Arora**, M. Ventresca, [The inverse problem of discovering complex network generators](https://icipe17.uwaterloo.ca/papers/53TVentresca.pdf), ICIPE, 2017
+- **V. Arora**, M. Ventresca, [A Multi-objective Optimization Approach for Generating Complex Networks](https://doi.org/10.1145/2908961.2908966), GECCO, 2016
 
 
 
