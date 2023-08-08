@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Viplove
 ---
 <img style="float: right;" src="Viplove.jpg" width="200" /> 
 I am Viplove Arora, postdoctoral researcher working on machine learning in Bioinformatics in [The Theoretical and Scientific Data Science Group](https://datascience.sissa.it/) at [SISSA](https://www.sissa.it/). I am a part of the Machine Learning and Systems Biology research unit led by [Guido Sanguinetti](https://datascience.sissa.it/person/11/guido-sanguinetti). Previously, I was a Postdoctoral Research Assistant in the [School of Industrial Engineering](https://engineering.purdue.edu/IE) at [Purdue University](https://www.purdue.edu/). I completed my PhD under the supervision of [Mario Ventresca](https://engineering.purdue.edu/~mventresca/index.php), where we developed a generative model for real-world graphs. I completed my bachelors in Production and Industrial Engineering from [IIT Delhi](http://www.iitd.ac.in/) in 2014, where I worked with [Makarand Kulkarni](https://www.me.iitb.ac.in/?q=faculty/Prof.%20Makarand.%20Shrikrishna.%20Kulkarni) for my bachelor's thesis.  
