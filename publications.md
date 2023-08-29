@@ -16,7 +16,7 @@ Check out my [Google Scholar page](https://scholar.google.com/citations?user=GqG
 - **V. Arora**, M. Ventresca, [Action-based Modeling of Complex Networks](https://doi.org/10.1038/s41598-017-05444-4), Scientific Reports (2017)
 
 ## Conference Papers
-- **V. Arora**, D. Irto, S. Goldt, G. Sanguinetti, [Quantifying lottery tickets under label noise: accuracy, calibration, and complexity](https://proceedings.mlr.press/v216/arora23a.html), UAI, 2023}
+- **V. Arora**, D. Irto, S. Goldt, G. Sanguinetti, [Quantifying lottery tickets under label noise: accuracy, calibration, and complexity](https://proceedings.mlr.press/v216/arora23a.html), UAI, 2023
 - J. MaGee, **V. Arora**, M. Ventresca, [Identifying the source of an epidemic using particle swarm optimization](https://doi.org/10.1145/3512290.3528711) GECCO, 2022
 - **V. Arora**, M. Ventresca, [Evaluating the Natural Variability in Generative Models for Complex Networks](https://doi.org/10.1007/978-3-030-05411-3_59), International Workshop on Complex Networks and their Applications, 2018
 - **V. Arora**, M. Ventresca, [Action-Based Model for Topologically Resilient Supply Networks](https://doi.org/10.1007/978-3-319-72150-7_53), International Workshop on Complex Networks and their Applications, 2017
