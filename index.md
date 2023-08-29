@@ -14,4 +14,4 @@ My expertise lies in Graph Machine Learning, and I'm actively seeking opportunit
 ## Contact Information  
 Email: varora@sissa.it  
 Office: SISSA Main Building, 656  
-Most updated [CV]({{ site.url }}/assets/Viplove_CV.pdf)
+Most updated [CV]({{ site.url }}/assets/CV_Viplove.pdf)
