@@ -11,7 +11,4 @@ My expertise lies in Graph Machine Learning. At SISSA, I have applied GNNs to ra
 
 <!-- I am interested in developing conceptual, mathematical, and computational tools for modeling complex systems. My research interests include network science, machine learning, complex systems, algorithm design, simulation, multi-objective optimization, and mechanism design. -->
 
-## Contact Information  
-Email: viplove@pumpkinseed.bio  
-Office: Palo Alto, California  
 Most updated [CV]({{ site.url }}/assets/CV_Viplove.pdf)
